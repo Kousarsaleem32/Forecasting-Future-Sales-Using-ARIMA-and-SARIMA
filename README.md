@@ -7,7 +7,7 @@ This project focuses on time series forecasting of monthly champagne sales using
 - **Dataset:** `perrin-freres-monthly-champagne.csv`
 - **Goal:** Forecast future champagne sales using statistical time series models
 - **Models Used:** ARIMA, SARIMA
-- **Tools:** `pandas`, `matplotlib`, `statsmodels`, `seaborn`
+- **Tools:** `pandas`, `matplotlib`, `statsmodels`
 
 ## Key Steps
 
